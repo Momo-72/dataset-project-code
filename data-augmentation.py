@@ -56,3 +56,4 @@ if __name__ == "__main__":
             random_path = os.path.join(output_folder, f"random_crop_{filename}")
             random_crop(input_path, random_path, crop_width=100, crop_height=100)
 
+
